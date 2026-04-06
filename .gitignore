@@ -1,0 +1,15 @@
+# Neovim runtime files
+lazy-lock.json
+.lazy/
+.deps/
+.undo/
+.session.vim
+
+# OS specific
+.DS_Store
+Thumbs.db
+
+# Backup and swap files
+*.swp
+*.swo
+*~
